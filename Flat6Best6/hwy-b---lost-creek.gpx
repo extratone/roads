@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="Flat6Best6">
+	<metadata>
+		<name>HWY B - Lost Creek</name>
+		<desc>One of the fun ways to get from I70 to HWY 94/Hermann</desc>
+		<link href="https://roads.porsche.com/content/en/route/hwy-b-lost-creek">
+		</link>
+		<time>2024-05-25T15:10:59Z</time>
+	</metadata>
+	<wpt lat="38.838974" lon="-91.226977">
+		<time>2024-05-25T15:10:59Z</time>
+	</wpt>
+	<wpt lat="38.733857" lon="-91.352953">
+		<time>2024-05-25T15:10:59Z</time>
+	</wpt>
+	<rte>
+		<rtept lat="38.838069" lon="-91.227016">
+			<time>2024-05-25T15:10:59Z</time>
+		</rtept>
+		<rtept lat="38.837103" lon="-91.226663">
+			<time>2024-05-25T15:10:59Z</time>
+		</rtept>
+		<rtept lat="38.827684" lon="-91.232978">
+			<time>2024-05-25T15:10:59Z</time>
+		</rtept>
+		<rtept lat="38.822322" lon="-91.243453">
+			<time>2024-05-25T15:10:59Z</time>
+		</rtept>
+		<rtept lat="38.807908" lon="-91.278777">
+			<time>2024-05-25T15:10:59Z</time>
+		</rtept>
+		<rtept lat="38.774998" lon="-91.306233">
+			<time>2024-05-25T15:10:59Z</time>
+		</rtept>
+		<rtept lat="38.750012999999996" lon="-91.33782400000001">
+			<time>2024-05-25T15:10:59Z</time>
+		</rtept>
+		<rtept lat="38.733892" lon="-91.35311800000001">
+			<time>2024-05-25T15:10:59Z</time>
+		</rtept>
+		<rtept lat="38.733857" lon="-91.35295300000001">
+			<time>2024-05-25T15:10:59Z</time>
+		</rtept>
+	</rte>
+</gpx>
