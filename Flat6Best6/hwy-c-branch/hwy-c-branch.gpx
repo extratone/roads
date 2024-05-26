@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="Flat6Best6">
+	<metadata>
+		<name>Hwy C Branch</name>
+		<desc>Branch of HWY C that dead ends at a farm overlooking the gasconade river. Tight, technical corners.</desc>
+		<link href="https://roads.porsche.com/content/en/route/hwy-c-branch">
+		</link>
+		<time>2024-05-26T04:29:47Z</time>
+	</metadata>
+	<wpt lat="37.9464" lon="-91.89413">
+		<time>2024-05-26T04:29:47Z</time>
+	</wpt>
+	<wpt lat="38.035171999999996" lon="-91.95106100000001">
+		<time>2024-05-26T04:29:47Z</time>
+	</wpt>
+	<rte>
+		<rtept lat="37.945536" lon="-91.894167">
+			<time>2024-05-26T04:29:47Z</time>
+		</rtept>
+		<rtept lat="37.970729" lon="-91.897134">
+			<time>2024-05-26T04:29:47Z</time>
+		</rtept>
+		<rtept lat="38.002013999999996" lon="-91.948048">
+			<time>2024-05-26T04:29:47Z</time>
+		</rtept>
+		<rtept lat="38.03517299999999" lon="-91.951062">
+			<time>2024-05-26T04:29:47Z</time>
+		</rtept>
+	</rte>
+</gpx>
