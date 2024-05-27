@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="SubLogan">
+	<metadata>
+		<name>Curvy</name>
+		<link href="https://roads.porsche.com/content/en/route/curvy-7">
+		</link>
+		<time>2024-05-27T18:21:51Z</time>
+	</metadata>
+	<wpt lat="38.888975" lon="-92.349132">
+		<time>2024-05-27T18:21:51Z</time>
+	</wpt>
+	<rte>
+		<rtept lat="38.889157" lon="-92.349133">
+			<time>2024-05-27T18:21:51Z</time>
+		</rtept>
+		<rtept lat="38.910208" lon="-92.33474199999999">
+			<time>2024-05-27T18:21:51Z</time>
+		</rtept>
+		<rtept lat="38.914981999999995" lon="-92.302758">
+			<time>2024-05-27T18:21:51Z</time>
+		</rtept>
+		<rtept lat="38.949124999999995" lon="-92.309874">
+			<time>2024-05-27T18:21:51Z</time>
+		</rtept>
+		<rtept lat="38.956897" lon="-92.20402499999999">
+			<time>2024-05-27T18:21:51Z</time>
+		</rtept>
+		<rtept lat="38.984624" lon="-92.202244">
+			<time>2024-05-27T18:21:51Z</time>
+		</rtept>
+		<rtept lat="38.985141999999996" lon="-92.24199999999999">
+			<time>2024-05-27T18:21:51Z</time>
+		</rtept>
+		<rtept lat="39.006933" lon="-92.23260199999999">
+			<time>2024-05-27T18:21:51Z</time>
+		</rtept>
+		<rtept lat="39.00685" lon="-92.24524999999998">
+			<time>2024-05-27T18:21:51Z</time>
+		</rtept>
+		<rtept lat="39.028879" lon="-92.24472299999998">
+			<time>2024-05-27T18:21:51Z</time>
+		</rtept>
+		<rtept lat="39.029664000000004" lon="-92.29210699999997">
+			<time>2024-05-27T18:21:51Z</time>
+		</rtept>
+		<rtept lat="39.059394000000005" lon="-92.29135199999997">
+			<time>2024-05-27T18:21:51Z</time>
+		</rtept>
+		<rtept lat="39.060762000000004" lon="-92.33052299999997">
+			<time>2024-05-27T18:21:51Z</time>
+		</rtept>
+		<rtept lat="39.042791" lon="-92.33235999999997">
+			<time>2024-05-27T18:21:51Z</time>
+		</rtept>
+		<rtept lat="39.039208" lon="-92.44716199999996">
+			<time>2024-05-27T18:21:51Z</time>
+		</rtept>
+		<rtept lat="38.983000000000004" lon="-92.44851299999996">
+			<time>2024-05-27T18:21:51Z</time>
+		</rtept>
+		<rtept lat="38.989185000000006" lon="-92.49486299999997">
+			<time>2024-05-27T18:21:51Z</time>
+		</rtept>
+		<rtept lat="38.93372600000001" lon="-92.49633999999996">
+			<time>2024-05-27T18:21:51Z</time>
+		</rtept>
+		<rtept lat="38.93144900000001" lon="-92.39975699999997">
+			<time>2024-05-27T18:21:51Z</time>
+		</rtept>
+		<rtept lat="38.91255400000001" lon="-92.40017599999996">
+			<time>2024-05-27T18:21:51Z</time>
+		</rtept>
+		<rtept lat="38.908671000000005" lon="-92.35404999999996">
+			<time>2024-05-27T18:21:51Z</time>
+		</rtept>
+		<rtept lat="38.889157000000004" lon="-92.34913299999995">
+			<time>2024-05-27T18:21:51Z</time>
+		</rtept>
+	</rte>
+</gpx>

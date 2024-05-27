@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="Jamo">
+	<metadata>
+		<name>Da trip of a century</name>
+		<desc>The more you fuck around the More you gonna find out</desc>
+		<link href="https://roads.porsche.com/content/en/route/da-trip-of-a-century">
+		</link>
+		<time>2024-05-27T18:20:37Z</time>
+	</metadata>
+	<wpt lat="38.5886" lon="-92.20525">
+		<time>2024-05-27T18:20:37Z</time>
+	</wpt>
+	<wpt lat="38.765587" lon="-92.48074500000001">
+		<time>2024-05-27T18:20:37Z</time>
+	</wpt>
+	<wpt lat="38.628682999999995" lon="-92.56596400000001">
+		<time>2024-05-27T18:20:37Z</time>
+	</wpt>
+	<rte>
+		<rtept lat="38.588552" lon="-92.204501">
+			<time>2024-05-27T18:20:37Z</time>
+		</rtept>
+		<rtept lat="38.612399" lon="-92.219556">
+			<time>2024-05-27T18:20:37Z</time>
+		</rtept>
+		<rtept lat="38.673711000000004" lon="-92.372479">
+			<time>2024-05-27T18:20:37Z</time>
+		</rtept>
+		<rtept lat="38.691582000000004" lon="-92.366444">
+			<time>2024-05-27T18:20:37Z</time>
+		</rtept>
+		<rtept lat="38.751798" lon="-92.410092">
+			<time>2024-05-27T18:20:37Z</time>
+		</rtept>
+		<rtept lat="38.763116000000004" lon="-92.447939">
+			<time>2024-05-27T18:20:37Z</time>
+		</rtept>
+		<rtept lat="38.765778000000005" lon="-92.482129">
+			<time>2024-05-27T18:20:37Z</time>
+		</rtept>
+		<rtept lat="38.714235" lon="-92.491018">
+			<time>2024-05-27T18:20:37Z</time>
+		</rtept>
+		<rtept lat="38.62867" lon="-92.565512">
+			<time>2024-05-27T18:20:37Z</time>
+		</rtept>
+	</rte>
+</gpx>

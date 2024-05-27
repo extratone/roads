@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="Scottwerks">
+	<metadata>
+		<name><![CDATA[River, hills & trees]]></name>
+		<link href="https://roads.porsche.com/content/en/route/river-hills-trees">
+		</link>
+		<time>2024-05-27T18:22:55Z</time>
+	</metadata>
+	<wpt lat="38.704212" lon="-91.437385">
+		<time>2024-05-27T18:22:55Z</time>
+	</wpt>
+	<rte>
+		<rtept lat="38.704311" lon="-91.437376">
+			<time>2024-05-27T18:22:55Z</time>
+		</rtept>
+		<rtept lat="38.728865" lon="-91.446168">
+			<time>2024-05-27T18:22:55Z</time>
+		</rtept>
+		<rtept lat="38.734012" lon="-91.353435">
+			<time>2024-05-27T18:22:55Z</time>
+		</rtept>
+		<rtept lat="38.760979999999996" lon="-91.30849400000001">
+			<time>2024-05-27T18:22:55Z</time>
+		</rtept>
+		<rtept lat="38.821572999999994" lon="-91.26480600000001">
+			<time>2024-05-27T18:22:55Z</time>
+		</rtept>
+		<rtept lat="38.84579399999999" lon="-91.26494400000001">
+			<time>2024-05-27T18:22:55Z</time>
+		</rtept>
+		<rtept lat="38.90133899999999" lon="-91.45698100000001">
+			<time>2024-05-27T18:22:55Z</time>
+		</rtept>
+		<rtept lat="38.85761699999999" lon="-91.44584100000002">
+			<time>2024-05-27T18:22:55Z</time>
+		</rtept>
+		<rtept lat="38.80262799999999" lon="-91.47783100000001">
+			<time>2024-05-27T18:22:55Z</time>
+		</rtept>
+		<rtept lat="38.805066999999994" lon="-91.53914400000001">
+			<time>2024-05-27T18:22:55Z</time>
+		</rtept>
+		<rtept lat="38.76205399999999" lon="-91.534778">
+			<time>2024-05-27T18:22:55Z</time>
+		</rtept>
+		<rtept lat="38.72251599999999" lon="-91.508919">
+			<time>2024-05-27T18:22:55Z</time>
+		</rtept>
+		<rtept lat="38.72886499999999" lon="-91.446168">
+			<time>2024-05-27T18:22:55Z</time>
+		</rtept>
+		<rtept lat="38.70431099999999" lon="-91.437376">
+			<time>2024-05-27T18:22:55Z</time>
+		</rtept>
+	</rte>
+</gpx>

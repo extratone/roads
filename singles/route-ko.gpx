@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="marcell">
+	<metadata>
+		<name>Route KO</name>
+		<link href="https://roads.porsche.com/content/en/route/route-ko">
+		</link>
+		<time>2024-05-27T18:21:04Z</time>
+	</metadata>
+	<wpt lat="38.901019" lon="-92.337155">
+		<time>2024-05-27T18:21:04Z</time>
+	</wpt>
+	<wpt lat="38.868781" lon="-92.401326">
+		<time>2024-05-27T18:21:04Z</time>
+	</wpt>
+	<wpt lat="38.901624" lon="-92.462782">
+		<time>2024-05-27T18:21:04Z</time>
+	</wpt>
+	<wpt lat="38.93558" lon="-92.46548">
+		<time>2024-05-27T18:21:04Z</time>
+	</wpt>
+	<wpt lat="38.973355000000005" lon="-92.495346">
+		<time>2024-05-27T18:21:04Z</time>
+	</wpt>
+	<rte>
+		<rtept lat="38.901019" lon="-92.337092">
+			<time>2024-05-27T18:21:04Z</time>
+		</rtept>
+		<rtept lat="38.876078" lon="-92.35047899999999">
+			<time>2024-05-27T18:21:04Z</time>
+		</rtept>
+		<rtept lat="38.86815" lon="-92.39739499999999">
+			<time>2024-05-27T18:21:04Z</time>
+		</rtept>
+		<rtept lat="38.886946" lon="-92.46665899999999">
+			<time>2024-05-27T18:21:04Z</time>
+		</rtept>
+		<rtept lat="38.93619" lon="-92.465515">
+			<time>2024-05-27T18:21:04Z</time>
+		</rtept>
+		<rtept lat="38.933840000000004" lon="-92.496461">
+			<time>2024-05-27T18:21:04Z</time>
+		</rtept>
+		<rtept lat="38.973228000000006" lon="-92.49533199999999">
+			<time>2024-05-27T18:21:04Z</time>
+		</rtept>
+	</rte>
+</gpx>

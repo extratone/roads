@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="Wheel">
+	<metadata>
+		<name>Hostage</name>
+		<link href="https://roads.porsche.com/content/en/route/hostage">
+		</link>
+		<time>2024-05-27T18:19:36Z</time>
+	</metadata>
+	<wpt lat="38.563168" lon="-92.221159">
+		<time>2024-05-27T18:19:36Z</time>
+	</wpt>
+	<rte>
+		<rtept lat="38.563391" lon="-92.221339">
+			<time>2024-05-27T18:19:36Z</time>
+		</rtept>
+		<rtept lat="38.552227" lon="-92.193082">
+			<time>2024-05-27T18:19:36Z</time>
+		</rtept>
+		<rtept lat="38.488949000000005" lon="-92.175702">
+			<time>2024-05-27T18:19:36Z</time>
+		</rtept>
+		<rtept lat="38.49581500000001" lon="-92.111202">
+			<time>2024-05-27T18:19:36Z</time>
+		</rtept>
+		<rtept lat="38.584593000000005" lon="-92.180481">
+			<time>2024-05-27T18:19:36Z</time>
+		</rtept>
+		<rtept lat="38.599180000000004" lon="-92.165841">
+			<time>2024-05-27T18:19:36Z</time>
+		</rtept>
+		<rtept lat="38.580784" lon="-92.100179">
+			<time>2024-05-27T18:19:36Z</time>
+		</rtept>
+		<rtept lat="38.597445" lon="-92.176529">
+			<time>2024-05-27T18:19:36Z</time>
+		</rtept>
+		<rtept lat="38.583218" lon="-92.184259">
+			<time>2024-05-27T18:19:36Z</time>
+		</rtept>
+		<rtept lat="38.582216" lon="-92.215615">
+			<time>2024-05-27T18:19:36Z</time>
+		</rtept>
+		<rtept lat="38.563391" lon="-92.221339">
+			<time>2024-05-27T18:19:36Z</time>
+		</rtept>
+	</rte>
+</gpx>
