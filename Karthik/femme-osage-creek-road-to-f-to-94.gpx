@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="Karthik">
+	<metadata>
+		<name>Femme Osage Creek Road To F To 94</name>
+		<desc>Femme Osage Creek Road To F To 94</desc>
+		<link href="https://roads.porsche.com/content/en/route/femme-osage-creek-road-to-f-to-94">
+		</link>
+		<time>2024-05-27T18:23:58Z</time>
+	</metadata>
+	<wpt lat="38.643585" lon="-90.956293">
+		<time>2024-05-27T18:23:58Z</time>
+	</wpt>
+	<wpt lat="38.664913" lon="-90.870846">
+		<time>2024-05-27T18:23:58Z</time>
+	</wpt>
+	<wpt lat="38.635902" lon="-90.820867">
+		<time>2024-05-27T18:23:58Z</time>
+	</wpt>
+	<wpt lat="38.665632" lon="-90.73524300000001">
+		<time>2024-05-27T18:23:58Z</time>
+	</wpt>
+	<wpt lat="38.699763000000004" lon="-90.72012400000001">
+		<time>2024-05-27T18:23:58Z</time>
+	</wpt>
+	<wpt lat="38.711142" lon="-90.69128400000001">
+		<time>2024-05-27T18:23:58Z</time>
+	</wpt>
+	<rte>
+		<rtept lat="38.643585" lon="-90.956293">
+			<time>2024-05-27T18:23:58Z</time>
+		</rtept>
+		<rtept lat="38.644284" lon="-90.936795">
+			<time>2024-05-27T18:23:58Z</time>
+		</rtept>
+		<rtept lat="38.644324" lon="-90.93678700000001">
+			<time>2024-05-27T18:23:58Z</time>
+		</rtept>
+		<rtept lat="38.664946" lon="-90.873665">
+			<time>2024-05-27T18:23:58Z</time>
+		</rtept>
+		<rtept lat="38.650241" lon="-90.775841">
+			<time>2024-05-27T18:23:58Z</time>
+		</rtept>
+		<rtept lat="38.711142" lon="-90.691284">
+			<time>2024-05-27T18:23:58Z</time>
+		</rtept>
+	</rte>
+</gpx>

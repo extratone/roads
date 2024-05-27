@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="Karthik">
+	<metadata>
+		<name>Femme Osage Creek Road</name>
+		<desc>Femme Osage Creek Road</desc>
+		<link href="https://roads.porsche.com/content/en/route/femme-osage-creek-road">
+		</link>
+		<time>2024-05-27T18:29:05Z</time>
+	</metadata>
+	<wpt lat="38.643515" lon="-90.956345">
+		<time>2024-05-27T18:29:05Z</time>
+	</wpt>
+	<wpt lat="38.664946" lon="-90.873665">
+		<time>2024-05-27T18:29:05Z</time>
+	</wpt>
+	<rte>
+		<rtept lat="38.643515" lon="-90.956345">
+			<time>2024-05-27T18:29:05Z</time>
+		</rtept>
+		<rtept lat="38.644284" lon="-90.936795">
+			<time>2024-05-27T18:29:05Z</time>
+		</rtept>
+		<rtept lat="38.644324" lon="-90.93678700000001">
+			<time>2024-05-27T18:29:05Z</time>
+		</rtept>
+		<rtept lat="38.664946" lon="-90.873665">
+			<time>2024-05-27T18:29:05Z</time>
+		</rtept>
+	</rte>
+</gpx>

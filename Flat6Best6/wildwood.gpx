@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="Flat6Best6">
+	<metadata>
+		<name>Wildwood</name>
+		<link href="https://roads.porsche.com/content/en/route/wildwood-1">
+		</link>
+		<time>2024-05-27T18:12:55Z</time>
+	</metadata>
+	<wpt lat="38.643254" lon="-90.671285">
+		<time>2024-05-27T18:12:55Z</time>
+	</wpt>
+	<rte>
+		<rtept lat="38.643292" lon="-90.671292">
+			<time>2024-05-27T18:12:55Z</time>
+		</rtept>
+		<rtept lat="38.671364000000004" lon="-90.674596">
+			<time>2024-05-27T18:12:55Z</time>
+		</rtept>
+		<rtept lat="38.672622000000004" lon="-90.65430599999999">
+			<time>2024-05-27T18:12:55Z</time>
+		</rtept>
+		<rtept lat="38.708670000000005" lon="-90.677162">
+			<time>2024-05-27T18:12:55Z</time>
+		</rtept>
+		<rtept lat="38.714941" lon="-90.70342199999999">
+			<time>2024-05-27T18:12:55Z</time>
+		</rtept>
+		<rtept lat="38.753203000000006" lon="-90.73980499999999">
+			<time>2024-05-27T18:12:55Z</time>
+		</rtept>
+		<rtept lat="38.745448" lon="-90.78186699999999">
+			<time>2024-05-27T18:12:55Z</time>
+		</rtept>
+		<rtept lat="38.738567" lon="-90.80103199999999">
+			<time>2024-05-27T18:12:55Z</time>
+		</rtept>
+		<rtept lat="38.70763" lon="-90.80488399999999">
+			<time>2024-05-27T18:12:55Z</time>
+		</rtept>
+		<rtept lat="38.713294000000005" lon="-90.87136899999999">
+			<time>2024-05-27T18:12:55Z</time>
+		</rtept>
+		<rtept lat="38.689112" lon="-90.88970299999998">
+			<time>2024-05-27T18:12:55Z</time>
+		</rtept>
+		<rtept lat="38.636385000000004" lon="-90.83700399999998">
+			<time>2024-05-27T18:12:55Z</time>
+		</rtept>
+		<rtept lat="38.640021000000004" lon="-90.80564799999998">
+			<time>2024-05-27T18:12:55Z</time>
+		</rtept>
+		<rtept lat="38.622257000000005" lon="-90.78621299999998">
+			<time>2024-05-27T18:12:55Z</time>
+		</rtept>
+		<rtept lat="38.592318000000006" lon="-90.80730299999998">
+			<time>2024-05-27T18:12:55Z</time>
+		</rtept>
+		<rtept lat="38.588831000000006" lon="-90.91660199999997">
+			<time>2024-05-27T18:12:55Z</time>
+		</rtept>
+		<rtept lat="38.551821000000004" lon="-91.00397499999997">
+			<time>2024-05-27T18:12:55Z</time>
+		</rtept>
+		<rtept lat="38.530461" lon="-90.92916399999997">
+			<time>2024-05-27T18:12:55Z</time>
+		</rtept>
+		<rtept lat="38.500280000000004" lon="-90.89542399999998">
+			<time>2024-05-27T18:12:55Z</time>
+		</rtept>
+		<rtept lat="38.576744000000005" lon="-90.75378099999998">
+			<time>2024-05-27T18:12:55Z</time>
+		</rtept>
+		<rtept lat="38.577535000000005" lon="-90.64464399999997">
+			<time>2024-05-27T18:12:55Z</time>
+		</rtept>
+		<rtept lat="38.59595" lon="-90.63958199999998">
+			<time>2024-05-27T18:12:55Z</time>
+		</rtept>
+		<rtept lat="38.643292" lon="-90.67129199999998">
+			<time>2024-05-27T18:12:55Z</time>
+		</rtept>
+	</rte>
+</gpx>

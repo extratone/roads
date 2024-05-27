@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="Vic Arnold">
+	<metadata>
+		<name>Fayette Route</name>
+		<link href="https://roads.porsche.com/content/en/route/fayette-route">
+		</link>
+		<time>2024-05-27T18:15:29Z</time>
+	</metadata>
+	<wpt lat="38.933118" lon="-92.301599">
+		<time>2024-05-27T18:15:29Z</time>
+	</wpt>
+	<rte>
+		<rtept lat="38.933294" lon="-92.301661">
+			<time>2024-05-27T18:15:29Z</time>
+		</rtept>
+		<rtept lat="38.964470999999996" lon="-92.31099499999999">
+			<time>2024-05-27T18:15:29Z</time>
+		</rtept>
+		<rtept lat="39.036590999999994" lon="-92.26484199999999">
+			<time>2024-05-27T18:15:29Z</time>
+		</rtept>
+		<rtept lat="39.04428299999999" lon="-92.16769599999999">
+			<time>2024-05-27T18:15:29Z</time>
+		</rtept>
+		<rtept lat="39.094294999999995" lon="-92.177375">
+			<time>2024-05-27T18:15:29Z</time>
+		</rtept>
+		<rtept lat="39.117757999999995" lon="-92.22267099999999">
+			<time>2024-05-27T18:15:29Z</time>
+		</rtept>
+		<rtept lat="39.11993199999999" lon="-92.33034199999999">
+			<time>2024-05-27T18:15:29Z</time>
+		</rtept>
+		<rtept lat="39.13343499999999" lon="-92.33518299999999">
+			<time>2024-05-27T18:15:29Z</time>
+		</rtept>
+		<rtept lat="39.13345999999999" lon="-92.43083299999999">
+			<time>2024-05-27T18:15:29Z</time>
+		</rtept>
+		<rtept lat="39.11172199999999" lon="-92.44448">
+			<time>2024-05-27T18:15:29Z</time>
+		</rtept>
+		<rtept lat="39.112680999999995" lon="-92.470019">
+			<time>2024-05-27T18:15:29Z</time>
+		</rtept>
+		<rtept lat="39.038312999999995" lon="-92.50288099999999">
+			<time>2024-05-27T18:15:29Z</time>
+		</rtept>
+		<rtept lat="38.98918499999999" lon="-92.49486299999998">
+			<time>2024-05-27T18:15:29Z</time>
+		</rtept>
+		<rtept lat="38.97096899999999" lon="-92.42653799999998">
+			<time>2024-05-27T18:15:29Z</time>
+		</rtept>
+		<rtept lat="38.93603699999999" lon="-92.44349699999998">
+			<time>2024-05-27T18:15:29Z</time>
+		</rtept>
+		<rtept lat="38.93329399999999" lon="-92.30166099999998">
+			<time>2024-05-27T18:15:29Z</time>
+		</rtept>
+	</rte>
+</gpx>

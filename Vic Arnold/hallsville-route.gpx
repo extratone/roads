@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="Vic Arnold">
+	<metadata>
+		<name>Hallsville Route</name>
+		<link href="https://roads.porsche.com/content/en/route/hallsville-route">
+		</link>
+		<time>2024-05-27T18:15:53Z</time>
+	</metadata>
+	<wpt lat="38.933118" lon="-92.301599">
+		<time>2024-05-27T18:15:53Z</time>
+	</wpt>
+	<rte>
+		<rtept lat="38.933294" lon="-92.301661">
+			<time>2024-05-27T18:15:53Z</time>
+		</rtept>
+		<rtept lat="38.949124999999995" lon="-92.309874">
+			<time>2024-05-27T18:15:53Z</time>
+		</rtept>
+		<rtept lat="38.948038999999994" lon="-92.204287">
+			<time>2024-05-27T18:15:53Z</time>
+		</rtept>
+		<rtept lat="39.00151199999999" lon="-92.196575">
+			<time>2024-05-27T18:15:53Z</time>
+		</rtept>
+		<rtept lat="39.04482199999999" lon="-92.167439">
+			<time>2024-05-27T18:15:53Z</time>
+		</rtept>
+		<rtept lat="39.12357999999999" lon="-92.166289">
+			<time>2024-05-27T18:15:53Z</time>
+		</rtept>
+		<rtept lat="39.12927499999999" lon="-92.39306300000001">
+			<time>2024-05-27T18:15:53Z</time>
+		</rtept>
+		<rtept lat="39.09280799999999" lon="-92.41429600000001">
+			<time>2024-05-27T18:15:53Z</time>
+		</rtept>
+		<rtept lat="39.01450399999999" lon="-92.40561400000001">
+			<time>2024-05-27T18:15:53Z</time>
+		</rtept>
+		<rtept lat="38.979764999999986" lon="-92.37078000000001">
+			<time>2024-05-27T18:15:53Z</time>
+		</rtept>
+		<rtept lat="38.93972999999998" lon="-92.369792">
+			<time>2024-05-27T18:15:53Z</time>
+		</rtept>
+		<rtept lat="38.93329399999998" lon="-92.30166100000001">
+			<time>2024-05-27T18:15:53Z</time>
+		</rtept>
+	</rte>
+</gpx>

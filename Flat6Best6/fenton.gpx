@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="Flat6Best6">
+	<metadata>
+		<name>Fenton</name>
+		<link href="https://roads.porsche.com/content/en/route/fenton">
+		</link>
+		<time>2024-05-27T18:11:15Z</time>
+	</metadata>
+	<wpt lat="38.52445" lon="-90.48638">
+		<time>2024-05-27T18:11:15Z</time>
+	</wpt>
+	<rte>
+		<rtept lat="38.524496" lon="-90.486215">
+			<time>2024-05-27T18:11:15Z</time>
+		</rtept>
+		<rtept lat="38.563950999999996" lon="-90.498111">
+			<time>2024-05-27T18:11:15Z</time>
+		</rtept>
+		<rtept lat="38.567668" lon="-90.543695">
+			<time>2024-05-27T18:11:15Z</time>
+		</rtept>
+		<rtept lat="38.553346999999995" lon="-90.547885">
+			<time>2024-05-27T18:11:15Z</time>
+		</rtept>
+		<rtept lat="38.57921399999999" lon="-90.597572">
+			<time>2024-05-27T18:11:15Z</time>
+		</rtept>
+		<rtept lat="38.54896299999999" lon="-90.629612">
+			<time>2024-05-27T18:11:15Z</time>
+		</rtept>
+		<rtept lat="38.509432999999994" lon="-90.622975">
+			<time>2024-05-27T18:11:15Z</time>
+		</rtept>
+		<rtept lat="38.477163999999995" lon="-90.637456">
+			<time>2024-05-27T18:11:15Z</time>
+		</rtept>
+		<rtept lat="38.46074599999999" lon="-90.614647">
+			<time>2024-05-27T18:11:15Z</time>
+		</rtept>
+		<rtept lat="38.47214499999999" lon="-90.589702">
+			<time>2024-05-27T18:11:15Z</time>
+		</rtept>
+		<rtept lat="38.455710999999994" lon="-90.53624500000001">
+			<time>2024-05-27T18:11:15Z</time>
+		</rtept>
+		<rtept lat="38.47643299999999" lon="-90.52798000000001">
+			<time>2024-05-27T18:11:15Z</time>
+		</rtept>
+		<rtept lat="38.49013899999999" lon="-90.48730800000001">
+			<time>2024-05-27T18:11:15Z</time>
+		</rtept>
+		<rtept lat="38.52449599999999" lon="-90.48621500000002">
+			<time>2024-05-27T18:11:15Z</time>
+		</rtept>
+	</rte>
+</gpx>

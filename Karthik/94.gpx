@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="Karthik">
+	<metadata>
+		<name>94</name>
+		<desc>94</desc>
+		<link href="https://roads.porsche.com/content/en/route/94">
+		</link>
+		<time>2024-05-27T18:28:34Z</time>
+	</metadata>
+	<wpt lat="38.599686" lon="-90.991104">
+		<time>2024-05-27T18:28:34Z</time>
+	</wpt>
+	<wpt lat="38.579974" lon="-90.95888000000001">
+		<time>2024-05-27T18:28:34Z</time>
+	</wpt>
+	<wpt lat="38.585313" lon="-90.818381">
+		<time>2024-05-27T18:28:34Z</time>
+	</wpt>
+	<wpt lat="38.638303" lon="-90.77315800000001">
+		<time>2024-05-27T18:28:34Z</time>
+	</wpt>
+	<wpt lat="38.652796" lon="-90.77628200000001">
+		<time>2024-05-27T18:28:34Z</time>
+	</wpt>
+	<wpt lat="38.665869" lon="-90.73492200000001">
+		<time>2024-05-27T18:28:34Z</time>
+	</wpt>
+	<wpt lat="38.700087" lon="-90.71977000000001">
+		<time>2024-05-27T18:28:34Z</time>
+	</wpt>
+	<wpt lat="38.711194000000006" lon="-90.69055800000001">
+		<time>2024-05-27T18:28:34Z</time>
+	</wpt>
+	<wpt lat="38.701122000000005" lon="-90.67154000000001">
+		<time>2024-05-27T18:28:34Z</time>
+	</wpt>
+	<rte>
+		<rtept lat="38.599686" lon="-90.991104">
+			<time>2024-05-27T18:28:34Z</time>
+		</rtept>
+		<rtept lat="38.711189" lon="-90.69064900000001">
+			<time>2024-05-27T18:28:34Z</time>
+		</rtept>
+		<rtept lat="38.710978999999995" lon="-90.68661700000001">
+			<time>2024-05-27T18:28:34Z</time>
+		</rtept>
+		<rtept lat="38.701122" lon="-90.67154000000001">
+			<time>2024-05-27T18:28:34Z</time>
+		</rtept>
+	</rte>
+</gpx>
